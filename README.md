@@ -25,7 +25,7 @@ Evaluation: The trained model is evaluated on the test dataset, and metrics such
 Visualization: Loss, accuracy, and confusion matrix are visualized using Matplotlib and Seaborn.
 
 # Results
-The model achieves a test accuracy of 97%. Confusion matrix and other visualizations are available in the main folder(in the bottom).
+The model achieves a test accuracy of 97%. Confusion matrix and other visualizations are available also.
 
 # Future Work
 Explore different architectures and hyperparameters for improved performance.
