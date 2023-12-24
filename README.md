@@ -12,7 +12,7 @@ Seaborn
 Scikit-learn
 Install the required dependencies using:
 
-pip install -r requirements.txt
+pip install [Required Dependenies]
 # Code Overview
 Data Loading and Preprocessing: The code reads sensor data from a CSV file, preprocesses it by scaling features, and encodes activity labels.
 
